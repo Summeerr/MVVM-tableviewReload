@@ -1,0 +1,13 @@
+//
+//  headTab.h
+//  tableview测试
+//
+//  Created by job on 2016/10/19.
+//  Copyright © 2016年 com.job36. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface headTab : UIView
+
+@end
